@@ -1,4 +1,4 @@
-flask-twip
+uWSGI+Nginx run flask twip
 ==========
 
 基础项目：https://github.com/twip/flask_twip
