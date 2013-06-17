@@ -1,9 +1,12 @@
 flask-twip
 ==========
 
-原项目：https://github.com/twip/flask_twip
+基础项目：https://github.com/twip/flask_twip
 
 原文:http://ichon.me/post/999.html
+作者[@chon219](https://twitter.com/#!/chon219)
+
+我所做的只是把上面那位先生的工作搬到git上来
 
 #安装
 
